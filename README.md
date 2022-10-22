@@ -1,7 +1,7 @@
 Landing page da empresa fictícia "Fruta & Fruto.
 A página é focada em alimentação saudável e foi desenvolvida para fins de estudos. Foi utilizado: HTML, CSS, Javascript, framework Bootstrap e encontra-se 100% responsiva.
 
-Acesse: https://ravenous-tech.github.io/-Site-Fruta-Fruto/
+Acesse: https://ravenous-tech.github.io/Fruta-Fruto/
 
 ![Captura de Tela (51)](https://user-images.githubusercontent.com/98185728/197092524-32efd542-5be9-457f-8eb2-0b9d6c4d2dd7.png)
 ------------------------------------------------------------------------------------------------------------------------------
