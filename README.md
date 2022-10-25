@@ -1,3 +1,5 @@
+# Fruta & Fruto
+
 Landing page da empresa fictícia "Fruta & Fruto.
 A página é focada em alimentação saudável e foi desenvolvida para fins de estudos. Foi utilizado: HTML, CSS, Javascript, framework Bootstrap e encontra-se 100% responsiva.
 
